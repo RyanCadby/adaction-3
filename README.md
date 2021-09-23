@@ -4,7 +4,7 @@ a. Fizz\
 b. Buzz\
 c. Fizzbuzz\
 d. Lucky\
-e. an integer\
+e. an integer
 
 e.g. if I run the program over a range from 1-20 I should get the following output:
 
